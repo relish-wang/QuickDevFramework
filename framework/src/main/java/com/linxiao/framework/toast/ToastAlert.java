@@ -51,7 +51,7 @@ import java.util.Map;
  * </code>
  * </pre>
  * <p>
- * more and more powerful usage - use custom layout(please see wiki)
+ * more and more powerful usage - use custom layout(please see wiki[LATER])
  *
  * @author LinXiao, wangxin
  * @since 2016/11/26
